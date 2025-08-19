@@ -1,4 +1,3 @@
 An implementation of Marching Squares + Noise in C# with godot. 
 
-https://github.com/user-attachments/assets/a75cf4c4-a66d-45f3-b14e-16e35f161cdc
-
+![marching_squares](https://github.com/user-attachments/assets/06969e2a-2b2d-4506-8a14-42153399763e)
